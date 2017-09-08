@@ -1,5 +1,0 @@
-C:\Users\Okan\Documents\Visual Studio 2015\Projects\csharp_kitap_uygulamalari\DinamikDiziler\DinamikDiziler\bin\Debug\DinamikDiziler.exe.config
-C:\Users\Okan\Documents\Visual Studio 2015\Projects\csharp_kitap_uygulamalari\DinamikDiziler\DinamikDiziler\bin\Debug\DinamikDiziler.exe
-C:\Users\Okan\Documents\Visual Studio 2015\Projects\csharp_kitap_uygulamalari\DinamikDiziler\DinamikDiziler\bin\Debug\DinamikDiziler.pdb
-C:\Users\Okan\Documents\Visual Studio 2015\Projects\csharp_kitap_uygulamalari\DinamikDiziler\DinamikDiziler\obj\Debug\DinamikDiziler.exe
-C:\Users\Okan\Documents\Visual Studio 2015\Projects\csharp_kitap_uygulamalari\DinamikDiziler\DinamikDiziler\obj\Debug\DinamikDiziler.pdb
