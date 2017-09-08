@@ -21,6 +21,8 @@ namespace DinamikDiziler //Dinamik dizilerde dizinin boyutu bir kez belirlendikt
             {
                 Console.WriteLine(dinamikDizi[i]);
                 Console.ReadKey();
+              
+              //Test için eklenen yorum satırı
             }
 
 
